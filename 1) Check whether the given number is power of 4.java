@@ -19,6 +19,7 @@ public class Main
         System.out.println("No");
     }
       
+    //Function to calculate Log Base 4
       static double log4(double d) {
       
       return Math.floor(Math.log(d)/Math.log(4.0));
