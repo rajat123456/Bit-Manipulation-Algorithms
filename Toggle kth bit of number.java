@@ -1,6 +1,8 @@
 // Toggle kth bit of number
 
-// Logic -> ( n ^ (1<<k) )
+// Logic -> ( n ^ (1<<k) ) 
+
+// When doing Exclusive-OR by 1 then we get Toggling, not at 0
 
 public class Main
 {
