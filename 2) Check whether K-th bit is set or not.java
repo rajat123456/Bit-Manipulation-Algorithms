@@ -4,7 +4,7 @@ Another Approach is that we can And the given number with 1, by right shifting t
 // Suppose example is 10111 (23), and we need to check whether the 4th bit 
 // (i.e, 0) from right is set or not.
 
-class Gfg
+class RR
 {
   public static void main(String[]args)
   {
